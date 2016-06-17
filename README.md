@@ -1,4 +1,4 @@
-## Openshift template for Red Hat Software Collections Apache Httpd server: rhscl/httpd-24-rhel7
+## Openshift template for apache httpd server
 
 Openshift template for httpd server. 
 Based on rhscl/httpd-24-rhel7 docker image.
